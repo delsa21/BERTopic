@@ -1,0 +1,2 @@
+outliers_antes_%,outliers_despues_%,estrategia
+60.43,0.29,reasignación por embeddings (threshold=0.5)

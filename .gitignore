@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+IMDB Dataset SPANISH.csv
+resultados/*.npy
+resultados/*.html
+resultados/documentos_y_topicos.csv
+resultados/segmentos_representativos.csv

@@ -1,0 +1,10 @@
+,0
+criterio,muestra aleatoria reproducible; una reseña en español = un documento
+num_segmentos,4830
+resenas_ingles_excluidas,170
+duplicados_eliminados,401
+palabras_media,227.5
+palabras_mediana,168.0
+palabras_min,9
+palabras_max,933
+palabras_p95,572.0
